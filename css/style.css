@@ -1,0 +1,18 @@
+.flex-me {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background: white;
+}
+
+body {
+    background-color: salmon;
+}
+
+.box-me {
+    display: inline-block;
+    width: 30%;
+    background-color: pink;
+    margin: 1em;
+    text-align: center;
+}
